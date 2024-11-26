@@ -24,7 +24,7 @@ I would like to express my gratitude to **CodeClause** IT Company for providing 
   - numpy
 
 ## Dataset
-The dataset for training the model was sourced from [Kaggle](https://www.kaggle.com/). It includes medical data such as age, cholesterol levels, and other relevant features.
+The dataset for training the model was sourced from Kaggle. It includes medical data such as age, cholesterol levels, and other relevant features.
 
 ### Key Features:
 1. **Model Development**: A Random Forest Classifier was trained on the Kaggle dataset to predict heart disease risk.
@@ -35,7 +35,7 @@ The dataset for training the model was sourced from [Kaggle](https://www.kaggle.
 ---
 
 ## Dataset
-- **Source**: Kaggle ([link](https://www.kaggle.com/))
+- **Source**: Kaggle ([link](https://www.kaggle.com/datasets/kapoorprakhar/cardio-health-risk-assessment-dataset))
 - **Details**: The dataset contains medical parameters, including:
   - Age, blood pressure, cholesterol levels, and other heart-health-related features.
   - Target variable: *Heart Disease* (Presence/Absence).
