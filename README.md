@@ -1,7 +1,7 @@
 # Heart Disease Prediction Web Application
 
 ## Overview
-This project is a **Heart Disease Prediction Web Application** is a golden-level project assigned to me as part of my Data Science Internship at CodeClause IT Company. The project is built using Python and Flask and it utilizes a machine learning model trained on a Kaggle dataset to predict the risk of heart disease based on user input. The web application provides a user-friendly interface for entering medical parameters and obtaining a prediction of heart disease risk.
+This project is a **Heart Disease Prediction Web Application** is a golden-level project assigned to me as part of my Data Science Internship at CodeClause IT Company. The project is built using Python and Flask and utilizes a machine learning model trained on a Kaggle dataset to predict the risk of heart disease based on user input. The web application provides a user-friendly interface for entering medical parameters and obtaining a prediction of heart disease risk.
 
 I would like to express my gratitude to **CodeClause** IT Company for providing me with this wonderful opportunity to enhance my skills and knowledge during the internship.
 
