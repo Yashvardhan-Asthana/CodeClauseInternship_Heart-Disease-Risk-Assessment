@@ -1,7 +1,7 @@
-# Heart Disease Prediction Web Application
+# Heart Disease Risk Assessment - Golden Level Project
 
 ## Overview
-This project is a **Heart Disease Prediction Web Application** is a golden-level project assigned to me as part of my Data Science Internship at CodeClause IT Company. The project is built using Python and Flask and utilizes a machine learning model trained on a Kaggle dataset to predict the risk of heart disease based on user input. The web application provides a user-friendly interface for entering medical parameters and obtaining a prediction of heart disease risk.
+This project is a **Heart Disease Prediction Web Application** is a golden-level project assigned to me as part of my Data Science Internship at **CodeClause** IT Company. This is a web-based machine learning project built using Python and Flask. It employs a machine learning model trained on a Kaggle dataset to predict the risk of heart disease based on user input. The web application features a user-friendly interface, allowing users to input medical parameters and receive a prediction regarding their heart disease risk.
 
 I would like to express my gratitude to **CodeClause** IT Company for providing me with this wonderful opportunity to enhance my skills and knowledge during the internship.
 
@@ -35,7 +35,7 @@ The dataset for training the model was sourced from Kaggle. It includes medical 
 ---
 
 ## Dataset
-- **Source**: Kaggle ([link](https://www.kaggle.com/datasets/kapoorprakhar/cardio-health-risk-assessment-dataset))
+- **Source**: Kaggle ([Dataset Link](https://www.kaggle.com/datasets/kapoorprakhar/cardio-health-risk-assessment-dataset))
 - **Details**: The dataset contains medical parameters, including:
   - Age, blood pressure, cholesterol levels, and other heart-health-related features.
   - Target variable: *Heart Disease* (Presence/Absence).
